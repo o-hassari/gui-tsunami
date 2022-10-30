@@ -8,10 +8,6 @@
 [![MacOS Build][macos-build-badge]][macos-build]
 [![Windows Build][windows-build-badge]][windows-build]
 
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
-
 # Introduction
 
 Bootstrap and package your project with Angular 14 and Electron 21 (Typescript + SASS + Hot Reload) for creating Desktop applications.
