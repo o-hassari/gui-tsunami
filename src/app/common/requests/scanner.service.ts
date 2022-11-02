@@ -9,7 +9,7 @@ import {Observable} from 'rxjs';
 
 export class ScannerService extends AbstractRequest {
 
-  public startScanning(target, type: string): Observable<HttpResponse<any>> {
+  public startScanning(target, type: string): Observable<HttpResponse<any>> {//
     return this.http.post<HttpResponse<any>>(`${this.api}/scanner/start`, {
         target,
         type,
