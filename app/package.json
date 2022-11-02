@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
-  "description": "Angular Electron sample",
+  "name": "gui-tsunami",
+  "description": "Angular Electron",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Ossama HASSARI",
+    "email": "hassariossama98@gmail.com"
   },
-  "version": "11.2.0",
+  "version": "1.0.0",
   "main": "main.js",
   "private": true,
   "dependencies": {

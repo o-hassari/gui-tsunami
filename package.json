@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
-  "version": "11.2.0",
+  "name": "gui-tsunami",
+  "version": "1.0.0",
   "description": "Angular 14 with Electron 21 (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "homepage": "https://github.com/Ossi98/gui-tsunami",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Ossama HASSARI",
+    "email": "hassariossama98@gmail.com"
   },
   "keywords": [
     "angular",
@@ -53,6 +53,7 @@
     "@angular/platform-browser": "14.2.6",
     "@angular/platform-browser-dynamic": "14.2.6",
     "@angular/router": "14.2.6",
+    "bootstrap": "5.2.2",
     "rxjs": "7.5.7",
     "tslib": "^2.4.0",
     "zone.js": "~0.11.8"
